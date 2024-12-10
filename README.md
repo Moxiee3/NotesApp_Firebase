@@ -5,5 +5,5 @@ A new Flutter project.
 
 ## Preview
 
-[![Demo Video](C:\Users\ilham maulaa\Videos\Captures/to/video.mp4)](https://github.com/user-attachments/assets/7bc08460-ac21-4bef-ab7d-30b2af757c73
+[![Demo Video](C:\Users\ilham maulaa\Videos\Captures/to/video.mp4)](https://github.com/user-attachments/assets/c1c46c7a-af88-4b71-ad39-d989f2bc6ffc
 )
